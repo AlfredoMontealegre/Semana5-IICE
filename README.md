@@ -1,2 +1,5 @@
-# Semana5-IICE
-Ejercicios de Arreglos
+## Integrantes
+# Blanca Zeledon
+# Christopher Santana
+# Andy Rueda
+# Alfredo Montealegre
