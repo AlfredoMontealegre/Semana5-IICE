@@ -1,0 +1,14 @@
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\bin\Debug\net9.0\Temperatura.exe
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\bin\Debug\net9.0\Temperatura.deps.json
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\bin\Debug\net9.0\Temperatura.runtimeconfig.json
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\bin\Debug\net9.0\Temperatura.dll
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\bin\Debug\net9.0\Temperatura.pdb
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfo.cs
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.dll
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\refint\Temperatura.dll
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.pdb
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\Temperatura.genruntimeconfig.cache
+C:\Users\monte\Desktop\RepoIICorte\Temperatura\obj\Debug\net9.0\ref\Temperatura.dll
