@@ -1,0 +1,7 @@
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\bin\Debug\ejercicio propuesto3.exe.config
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\bin\Debug\ejercicio propuesto3.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\bin\Debug\ejercicio propuesto3.pdb
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\obj\Debug\ejercicio propuesto3.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\obj\Debug\ejercicio propuesto3.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\obj\Debug\ejercicio propuesto3.exe
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto3\ejercicio propuesto3\obj\Debug\ejercicio propuesto3.pdb

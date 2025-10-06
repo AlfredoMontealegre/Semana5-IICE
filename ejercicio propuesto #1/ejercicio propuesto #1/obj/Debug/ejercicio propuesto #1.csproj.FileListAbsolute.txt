@@ -1,0 +1,2 @@
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto #1\ejercicio propuesto #1\obj\Debug\ejercicio propuesto #1.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\programacion estructurada\semana 6\ejercicio propuesto #1\ejercicio propuesto #1\obj\Debug\ejercicio propuesto #1.csproj.CoreCompileInputs.cache
