@@ -1,0 +1,8 @@
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\zeled\OneDrive\Documentos\PROGRAMACIÓN\Segundo semestre\Semana 6\Viernes\Ejercicio1\obj\Debug\Ejercicio1.exe.config
